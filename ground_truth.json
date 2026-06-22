@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is the company's mission?",
+        "relevant_pages": [11]
+    },
+    {
+        "question": "What are the company's core values?",
+        "relevant_pages": [12]
+    },
+    {
+        "question": "What does the Equal Opportunity policy prohibit?",
+        "relevant_pages": [14]
+    },
+    {
+        "question": "What is the Work From Home policy?",
+        "relevant_pages": [68]
+    },
+    {
+        "question": "What is the Attendance and Leave policy?",
+        "relevant_pages": [63]
+    },
+    {
+        "question": "What is the maternity benefit?",
+        "relevant_pages": [44]
+    },
+    {
+        "question": "What is the travel policy?",
+        "relevant_pages": [49]
+    },
+    {
+        "question": "What is the employee referral policy?",
+        "relevant_pages": [56]
+    },
+    {
+        "question": "What is the appraisal policy?",
+        "relevant_pages": [85]
+    },
+    {
+        "question": "What is the performance improvement process?",
+        "relevant_pages": [87]
+    }
+]
